@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "chai": "^4.0.1",
-    "nock": "^9.0.6",
+    "nock": "^9.0.15",
     "mocha": "^3.4.1"
   },
   "scripts": {
